@@ -1,4 +1,4 @@
-# JPEG-Reversible-Data-Hiding-using-DCT-LSB-shifting
+# JPEG-Image-Data-Hiding-using-DCT-LSB-shifting
 The purpose is to hide a JPEG file A into another JPEG file B by altering some high-frequent DCT coefficients of B.
 Here A is read as bitstream. 
 
@@ -22,3 +22,5 @@ Special thank to the guidance of JPEG format knowledge offered by FlyingFish on 
 
 
 Please kindly contact me if you have any suggestion/new idea/comment or find any bug while using the codes via shinydotcom@163.com. And I will quickly reply.
+
+To my Best knowledge there is little Decoding algorithm for JPEG Header in JAVA, so hope this repository can help you. 
